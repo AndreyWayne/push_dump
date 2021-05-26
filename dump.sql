@@ -84,6 +84,8 @@ pus	\N
 pus	\N
 pus	\N
 pus	\N
+pus	\N
+pus	\N
 \.
 
 

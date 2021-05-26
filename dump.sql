@@ -86,6 +86,12 @@ pus	\N
 pus	\N
 pus	\N
 pus	\N
+pus	\N
+pus	\N
+pus	\N
+pus	\N
+arbus	\N
+arbus	\N
 \.
 
 

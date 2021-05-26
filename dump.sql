@@ -92,6 +92,9 @@ pus	\N
 pus	\N
 arbus	\N
 arbus	\N
+arbus	\N
+arbus	\N
+puskus	\N
 \.
 
 

@@ -95,6 +95,7 @@ arbus	\N
 arbus	\N
 arbus	\N
 puskus	\N
+huz	\N
 \.
 
 
